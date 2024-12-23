@@ -31,7 +31,7 @@ class RawCrawler:
     async def create_session(self):
         """Create an aiohttp session with ScraperAPI proxy"""
         proxies = [
-            "http://scraperapi:59344a702e879f7754b49fffdbfb735b@proxy-server.scraperapi.com:8001"
+            "Add your Api keys here"
         ]
         
         connector = aiohttp.TCPConnector(
