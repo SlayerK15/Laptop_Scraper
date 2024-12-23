@@ -1,0 +1,4 @@
+2024-12-23 18:52:13,401 - main - INFO - Starting laptop data collection
+2024-12-23 18:52:13,481 - main - ERROR - Error running crawler: 'RawCrawler' object has no attribute 'run'
+2024-12-23 18:52:13,481 - main - INFO - Crawler process finished
+2024-12-23 18:52:13,482 - root - ERROR - Crawler failed: 'RawCrawler' object has no attribute 'run'
